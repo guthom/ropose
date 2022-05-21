@@ -1,5 +1,8 @@
 ./output
 ./models
+./datasets
+./examples
+
 \.idea
 
 \build
