@@ -1,0 +1,12 @@
+[submodule "guthoms_helpers"]
+	path = guthoms_helpers
+	url = git@github.com:guthom/guthoms_helpers.git
+[submodule "ropose_greenscreener"]
+	path = ropose_greenscreener
+	url = git@github.com:guthom/ropose_greenscreener.git
+[submodule "kinematic_tracker"]
+	path = kinematic_tracker
+	url = git@github.com:guthom/kinematic_tracker.git
+[submodule "ropose_dataset_tools"]
+	path = ropose_dataset_tools
+	url = git@github.com:guthom/ropose_dataset_tools.git
