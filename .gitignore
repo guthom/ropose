@@ -1,0 +1,14 @@
+./output
+./models
+\.idea
+
+\build
+\dist
+\ropose_dataset_tools.egg-info
+
+*.pyc
+
+
+#keras and pythorch stuff
+*.hd5
+*.pt
