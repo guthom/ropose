@@ -10,3 +10,6 @@
 [submodule "ropose_dataset_tools"]
 	path = ropose_dataset_tools
 	url = git@github.com:guthom/ropose_dataset_tools.git
+[submodule "ropose/thirdparty/yolov3"]
+	path = ropose/thirdparty/yolov3
+	url = https://github.com/ultralytics/yolov3.git
