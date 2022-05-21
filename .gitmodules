@@ -14,5 +14,5 @@
 	path = ropose/thirdparty/yolov3
 	url = https://github.com/ultralytics/yolov3.git
 [submodule "ropose/thirdparty/human-pose-estimation.pytorch"]
-	path = ropose/thirdparty/human-pose-estimation.pytorch
+	path = ropose/thirdparty/humanpose
 	url = https://github.com/microsoft/human-pose-estimation.pytorch.git
