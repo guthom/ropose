@@ -24,6 +24,18 @@ This repository contains the core of the RoPose Pose estimation System for indus
 * run git submodule update --init --recursive to get the needed submodules
 * Install required packages: pip3 install -r requirements.txt
 
+## Download Models and Dataset
+Use the makefile commands to download the datasets as well as the models
+
+```
+    make download-datasets 
+    make download-models
+```
+or:
+```
+    make download-all
+```
+
 ## Scripts
 RoPose demo scripts can be found in the directory /ropose/scripts/pytorch/
 
